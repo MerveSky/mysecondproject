@@ -41,49 +41,35 @@ body {
     background: slateblue;
 }
 
-
-
-/* 1 */
-
-.c1 {
-    margin-top: 10px;
+#h1  {
+    margin-left: 110px;
+    align-items: center;
+    padding-top: 190px;
 }
 
-.c1 .h1 {
-    padding-bottom:50px ;
+#h2 {
+    align-items: center;
+    padding-top: 190px;
+    padding-left: 110px;
 }
 
-
-/* 2 */
-
-.c2 {}
-
-.c2 h1 {}
-
-
-/* 3 */
-
-.c3 {}
-
-.c3 h1 {}
-
-
-/* 4 */
-
-.c4 {}
-
-.c4 h1 {}
-
-
-/* 5 */
-
-.c5 {}
-
-.c5 h1 {}
-
-
-/* 6 */
-
-.c6 {}
-
-.c6 h1 {}
+#h3 {
+   align-items: center;
+  padding-top: 180px;
+  padding-left: 120px;
+}
+#h4 {
+    align-items: center;
+    padding-top: 180px;
+    padding-left: 120px;
+}
+#h5 {
+    align-items: center;
+    padding-top: 180px;
+    padding-left: 120px;
+}
+#h6 {
+    align-items: center;
+    padding-top: 180px;
+    padding-left: 120px;
+}
